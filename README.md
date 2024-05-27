@@ -7,7 +7,8 @@
 	<a href="https://github.com/xurxorguezz">
 		<img src="https://img.shields.io/github/followers/xurxorguezz?label=Followers" alt="xurxorguezz" />
 	</a>
-	<a href="https://github.com/xurxorguezz">
+	</p>
+	<p> <a href="https://github.com/xurxorguezz">
 		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Spanish+Programmer;Front-end+developer;Sexy" alt="Typing SVG" /></a> 
 </p>
 - 🔭 Follow me in [Instagram](https://instagram.com/xurxorguezz_)
