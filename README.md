@@ -1,17 +1,24 @@
-<h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></img>, I'm Xurxo Rodríguez!</h1>
+<h1 align="center">
+Hi, I'm Xurxo Rodríguez!
+	<a href="https://github.com/xurxorguezz" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 <p align="center">
-	<p align="center">
 	<a href="https://github.com/xurxorguezz">
 		<img src="https://komarev.com/ghpvc/?username=xurxorguezz&label=Profile%20views&color=0e75b6&style=flat" alt="xurxorguezz" />
 	</a>
 	<a href="https://github.com/xurxorguezz">
 		<img src="https://img.shields.io/github/followers/xurxorguezz?label=Followers" alt="xurxorguezz" />
 	</a>
-	</p>
-	<p> <p align="center">
-		<a href="https://github.com/xurxorguezz">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Spanish+Programmer;Front-end+developer;Sexy" alt="Typing SVG" /></a> 
 </p>
+<br/>
+<p align="center">
+	<a href="https://github.com/xurxorguezz">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Spanish+Programmer;Front-end+developer;Sexy&center=true&width=380&height=45">
+	</a>
+</p>
+
 
 - 🔭 Follow me in [Instagram](https://instagram.com/xurxorguezz_)
   
