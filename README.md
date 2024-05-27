@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xurxo</h1>
+<h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></img> , I'm Xurxo</h1>
 <h3 align="center">A 15 y/o guy that loves programming</h3>  
 <br/>  
   
