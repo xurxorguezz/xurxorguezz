@@ -1,7 +1,7 @@
 <h1 align="center">
-Hi, <a href="https://github.com/xurxorguezz" target="_self">
+Hi <a href="https://github.com/xurxorguezz" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a> I'm Xurxo Rodríguez!
+	</a>, I'm Xurxo Rodríguez!
 	
 </h1>
 <p align="center">
