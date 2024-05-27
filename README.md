@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></img>, I'm Xurxo Rodríguez</h1>
+<h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></img>, I'm Xurxo Rodríguez!</h1>
 <p align="center">
 	<a href="https://github.com/xurxorguezz">
 		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Spanish+Programmer;Front-end+developer;Sexy" alt="Typing SVG" /></a> 
