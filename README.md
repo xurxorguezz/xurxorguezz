@@ -20,7 +20,7 @@ Hi <a href="https://github.com/xurxorguezz" target="_self">
 </p>
 
 
-- 🔭 Watch my [Guns ] bio (https://guns.lol/xurxorguezz_)
+- 🔭 Watch my [Guns] (https://guns.lol/xurxorguezz_) bio
   
 
 - ❓ I'm currently experiencing!
