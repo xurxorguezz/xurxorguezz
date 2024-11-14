@@ -20,13 +20,13 @@ Hi <a href="https://github.com/xurxorguezz" target="_self">
 </p>
 
 
-- 🔭 Follow me in [Instagram](https://instagram.com/xurxorguezz_)
+- 🔭 Watch my [Guns ] bio (https://guns.lol/xurxorguezz_)
   
 
-- ❓ I'm currently trying to do my website!
+- ❓ I'm currently experiencing!
   
 
-- ✨ I like Cars
+- ✨ I really like Cars
   
 
  
