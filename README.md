@@ -88,6 +88,7 @@ Hi <a href="https://github.com/xurxorguezz" target="_self">
   
 
 <br/>  
+
 ## Statistics
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xurxorguezz&show_icons=true&count_private=true&hide_border=true&locale=es&theme=dracula" align="center" /></div>  
 
@@ -95,7 +96,7 @@ Hi <a href="https://github.com/xurxorguezz" target="_self">
 
 ## Could you give me a hug? 😊
 <center>
-<a href="http://huggle.jdf2.org/hug/xurxorguezz">
+<a href="https://huggle.jdf2.org/hug/xurxorguezz">
      <img src="http://huggle.jdf2.org/sig/xurxorguezz.png">
 </a>
 </center>
