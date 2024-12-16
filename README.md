@@ -73,7 +73,7 @@ Hi <a href="https://github.com/xurxorguezz" target="_self">
 
 ## Contact with me
 <div align="center">
-<a href="https://dsc.gg/ezsh0p" target="_blank">
+<a href="https://discord.com/users](https://discord.com/users/987731105371287633" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2300acee.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/xurxorguezz_" target="_blank">
