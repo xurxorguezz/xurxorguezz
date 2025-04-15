@@ -23,10 +23,10 @@ Hi <a href="https://github.com/xurxorguezz" target="_self">
 - 🔭 Watch my [bio](https://xurxorguezz.github.io)!
   
 
-- ❓ I'm currently experiencing!
+- 🌱 I'm currently experiencing!
   
 
-- ✨ I really like Cars!
+- 🚗 I really like Cars!
   
 
  
